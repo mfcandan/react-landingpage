@@ -1,10 +1,14 @@
 import React from 'react';
 import './App.css';
+import Navbar from './components/Navbar';
+import {BrowserRouter as Router, Swithc, Route } from 'react-router-dom';
 
 function App() {
   return (
     <div className="App">
-      <h1>Yo</h1>  
+      <Router>
+        <Navbar />  
+      </Router>
     </div>
   );
 }
