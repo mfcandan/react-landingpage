@@ -8,7 +8,7 @@ function HeroSection() {
         <div className="hero-container">
             <video src="/videos/video-2.mp4" autoPlay loop muted />
             <h1>Welcome to Portfolio Site</h1>
-            <p>What are you waiting</p>
+            <p>This site created with React.js</p>
             <div className="hero-btns">
                 <Button 
                 className="btns" 

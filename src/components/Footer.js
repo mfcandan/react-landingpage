@@ -8,10 +8,10 @@ function Footer() {
         <div className='footer-container'>
             <section className='footer-subscription'>
                 <p className="footer-subscription-heading">
-                    Join the adventure newsletter
+                    This site is an example for resonsive web app for react.js
                 </p>
                 <p className="footer-subscription-text">
-                    You can unsub. any time
+                    Every buttons, cards, contents are component
                 </p>
                 <form>
                     <input type="email" name="email" placeholde="Your email" className="footer-input"/>
