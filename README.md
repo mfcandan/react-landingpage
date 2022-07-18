@@ -1,4 +1,4 @@
-This portfolio landing project built React.js with atomic design principles.
+This portfolio landing project built React.js & hooks with atomic design principles.
 ### `npm start`
 
 Runs the app in the development mode.<br />
